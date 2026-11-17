@@ -1,3 +1,4 @@
+
 # EXP-3-Adder-sub
 ## Design and Verification of Half Adder and Half Subtractor
 ### Aim
@@ -84,6 +85,8 @@ The Half Adder and Half Subtractor were realized using Verilog HDL:
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ### Output
+<img width="1911" height="977" alt="Screenshot 2026-11-17 140942" src="https://github.com/user-attachments/assets/c3472d17-f846-4f15-9fa8-0fec804a6194" />
+<img width="1807" height="992" alt="Screenshot 2026-11-17 142524" src="https://github.com/user-attachments/assets/c4fb2488-b082-4874-a58d-21a3a7abbad9" />
 
 
 ### Viva-Voce Questions
